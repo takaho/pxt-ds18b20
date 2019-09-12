@@ -1,4 +1,5 @@
 {
+  "DFRobot pxt-ds18b20,read temperature by ds18b20": "DS18B20による温度読み取り拡張(DFRobot)"
   "DS18B20.TemperatureString|block": "|%p|文字で温度を取得",
   "DS18B20.TemperatureNumber|block": "|%p|数字で温度を取得",
   "DS18B20.pin.pin0|block": "ピン0",
