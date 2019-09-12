@@ -1,6 +1,6 @@
 {
-  "DS18B20.TemperatureString|block": "|%p|読取温度(文字)",
-  "DS18B20.TemperatureNumber|block": "|%p|読取温度(数字)",
+  "DS18B20.TemperatureString|block": "|%p|文字で温度を取得",
+  "DS18B20.TemperatureNumber|block": "|%p|数字で温度を取得",
   "DS18B20.pin.pin0|block": "ピン0",
   "DS18B20.pin.pin1|block": "ピン1",
   "DS18B20.pin.pin2|block": "ピン2",
